@@ -1,0 +1,8 @@
+year;title;studios;producers;winner
+1980;Valid Movie;Studio;Producer;yes
+invalid_year;Movie;Studio;Producer;no
+1981;;Studio;Producer;no
+1982;Missing Studios;;Producer;no
+1983;Missing Producers;Studio;;no
+1984;Too many;Columns;Should;Be;Ignored;yes
+1985;Too few;Columns;yes
